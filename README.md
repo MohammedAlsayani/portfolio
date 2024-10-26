@@ -1,4 +1,4 @@
-<img src="assets/images/logo.png" align="right" width="60px"/>
+<img src="assets/projects/portfolio.png" align="right" width="60px"/>
 
 My personal Portfolio
 ==============
