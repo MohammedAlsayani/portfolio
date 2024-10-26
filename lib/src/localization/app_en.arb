@@ -1,0 +1,118 @@
+{
+  "name": "Mohammed Al-sayani",
+  "@name": {
+    "description": "My name"
+  },
+  "homeSectionTitle": "Home",
+  "@homeSectionTitle": {
+    "description": "Title of Home section"
+  },
+  "aboutSectionTitle": "About",
+  "@aboutSectionTitle": {
+    "description": "Title of About section"
+  },
+  "aboutSectionTitleAlt": "About Me",
+  "@aboutSectionTitleAlt": {
+    "description": "Title of About section alternative title"
+  },
+  "experienceSectionTitle": "Experience",
+  "@experienceSectionTitle": {
+    "description": "Title of Experience section"
+  },
+  "projectsSectionTitle": "Projects",
+  "@projectsSectionTitle": {
+    "description": "Title of Projects section"
+  },
+  "englishLanguage": "English",
+  "@englishLanguage": {
+    "description": "English language resume"
+  },
+  "arabicLanguage": "Arabic",
+  "@arabicLanguage": {
+    "description": "Arabic language resume"
+  },
+  "resume": "Resume",
+  "@resume": {
+    "description": "Resume"
+  },
+  "downloadResume": "Download resume",
+  "@downloadResume": {
+    "description": "Resume download dialog"
+  },
+  "resumePresent": "Present",
+  "@resumePresent": {
+    "description": "Current job or education"
+  },
+  "description": "Seasoned Mobile Applications Developer",
+  "@description": {
+    "description": "Brief introduction about myself"
+  },
+  "subDescription": "Specialist in Flutter and Dart",
+  "@subDescription": {
+    "description": "My professional expertise"
+  },
+  "about": "Hello! I'm Mohammed Abdullah Al-sayani, a seasoned Mobile Applications Developer with over four years of hands-on experience building high-performance, cross-platform applications using Flutter and Dart. With a strong focus on designing user-centric applications for both Android and iOS, I excel at delivering optimized, scalable solutions that enhance user experience. I am adept at collaborating with cross-functional teams, leading development projects, and tackling complex technical challenges. Seeking opportunities to leverage my expertise to create impactful digital solutions.",
+  "@about": {
+    "description": "My personal introduction"
+  },
+  "portfolioDescription": "Yes, it's THIS portfolio! This project uses a Clean Architecture approach, focusing on scalability and maintenance. It's fully responsive and supports multiple languages and themes.",
+  "@portfolioDescription": {
+    "description": "Description of the Portfolio project"
+  },
+  "credit": "Design inspired by",
+  "@credit": {
+    "description": "Credit to original designer"
+  },
+  "kayanDevJobTitle": "Mobile Applications Developer",
+  "@kayanDevJobTitle": {
+    "description": "Job title at Kayan Intelligence"
+  },
+  "kayanDevJobDescription": "<ul> <li>Developed Flutter apps for various investors and companies.</li> <li>Collaborated with teams to gather requirements and deliver optimized solutions.</li> <li>Led projects to improve user experience and app performance.</li> <li>Managed multiple projects and provided technical guidance.</li> </ul>",
+  "@kayanDevJobDescription": {
+    "description": "Job description at Kayan Intelligence"
+  },
+  "amrtmDevJobTitle": "Mobile Applications Developer",
+  "@amrtmDevJobTitle": {
+    "description": "Job title at Amrtm Company"
+  },
+  "amrtmDevJobDescription": "<ul> <li>Developed company software and mobile applications using Flutter.</li> <li>Collaborated with teams to deliver customized solutions and optimize app functionality.</li> <li>Contributed to the full development lifecycle and provided technical mentorship.</li> </ul>",
+  "@amrtmDevJobDescription": {
+    "description": "Job description at Amrtm Company"
+  },
+  "freelanceDevJobTitle": "Mobile Applications Developer",
+  "@freelanceDevJobTitle": {
+    "description": "Job title for freelance work"
+  },
+  "freelanceDevJobDescription": "<ul> <li>Developed custom mobile apps using Flutter for various clients.</li> <li>Managed multiple projects with a focus on timely delivery and high quality.</li> <li>Proficient in state management and integrating RESTful APIs.</li> </ul>",
+  "@freelanceDevJobDescription": {
+    "description": "Job description for freelance work"
+  },
+  "bzzzProjectDescription": "A social media app similar to Instagram and Snapchat, allowing users to create activities, reels, stories, and events. Technologies include GetX, Clean Architecture, Firebase, and In-App Purchases.",
+  "@bzzzProjectDescription": {
+    "description": "Description of Bzzz project"
+  },
+  "arabianPayProjectDescription": "A Fintech app offering Buy Now, Pay Later (BNPL) services, split payments, and Sharia-compliant financial solutions. Includes logistics services for merchants.",
+  "@arabianPayProjectDescription": {
+    "description": "Description of ArabianPay project"
+  },
+  "bonswiteProjectDescription": "A delivery app specializing in ordering sweets and coffee exclusively in Saudi Arabia, with fast delivery through a trained fleet of drivers. Technologies include Cubit, MVVM, Firebase, and Geolocation Services.",
+  "@bonswiteProjectDescription": {
+    "description": "Description of Bonswite project"
+  },
+  "tinderFoodProjectDescription": "A food delivery app similar to Mrsool and Jahez, offering seamless ordering and tracking for customers. Technologies include Clean Architecture, Firebase, RESTful APIs, and Location Services.",
+  "@tinderFoodProjectDescription": {
+    "description": "Description of TinderFood project"
+  },
+  "ashghalProjectDescription": "A job seeker app designed to simplify and enhance the job search experience for users. Technologies include Firebase, GetX, Clean Architecture, and Role-Based Access Control.",
+  "@ashghalProjectDescription": {
+    "description": "Description of Ashghal project"
+  },
+  "universitiesAppProjectDescription": "An app that connects students with universities worldwide, helping them choose and apply to institutions. Technologies include Firebase, Hive, GetX, and RESTful APIs.",
+  "@universitiesAppProjectDescription": {
+    "description": "Description of Universities App project"
+  },
+  "luxuryShopMarketProjectDescription": "A high-end shopping app similar to SHEIN, providing a seamless shopping experience for luxury items. Technologies include SQLite, Firebase, and Payment Gateway Integration.",
+  "@luxuryShopMarketProjectDescription": {
+    "description": "Description of Luxury Shop Market project"
+  }
+}

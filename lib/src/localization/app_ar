@@ -1,0 +1,99 @@
+{
+  "name": "محمد عبدالله السياني",
+  "@name": {
+    "description": "اسمي"
+  },
+  "homeSectionTitle": "الرئيسية",
+  "@homeSectionTitle": {
+    "description": "عنوان قسم الرئيسية"
+  },
+  "aboutSectionTitle": "حول",
+  "@aboutSectionTitle": {
+    "description": "عنوان قسم حول"
+  },
+  "aboutSectionTitleAlt": "عنّي",
+  "@aboutSectionTitleAlt": {
+    "description": "عنوان قسم حول بديل"
+  },
+  "experienceSectionTitle": "الخبرة",
+  "@experienceSectionTitle": {
+    "description": "عنوان قسم الخبرة"
+  },
+  "projectsSectionTitle": "المشاريع",
+  "@projectsSectionTitle": {
+    "description": "عنوان قسم المشاريع"
+  },
+  "englishLanguage": "الإنجليزية",
+  "@englishLanguage": {
+    "description": "السيرة الذاتية باللغة الإنجليزية"
+  },
+  "arabicLanguage": "العربية",
+  "@arabicLanguage": {
+    "description": "السيرة الذاتية باللغة العربية"
+  },
+  "resume": "السيرة الذاتية",
+  "@resume": {
+    "description": "السيرة الذاتية"
+  },
+  "downloadResume": "تحميل السيرة الذاتية",
+  "@downloadResume": {
+    "description": "نافذة تحميل السيرة الذاتية"
+  },
+  "resumePresent": "حتى الآن",
+  "@resumePresent": {
+    "description": "الوظيفة أو التعليم الحالي"
+  },
+  {
+  // ... existing localization keys
+
+  "tinderFoodProjectDescription": "تطبيق توصيل طعام مشابه لـ Mrsool و Jahez، يقدم طلبات سلسة وتتبع للطلبات للمستخدمين. التقنيات المستخدمة تشمل العمارة النظيفة، Firebase، واجهات برمجة تطبيقات RESTful، خدمات الموقع، تكامل الدردشة، وأكثر.",
+  "@tinderFoodProjectDescription": {
+    "description": "وصف مشروع TinderFood"
+  }
+}
+
+  "description": "مطور تطبيقات جوال محترف",
+  "@description": {
+    "description": "مقدمة عن نفسي"
+  },
+  "subDescription": "متخصص في فلاتر و دارت",
+  "@subDescription": {
+    "description": "تخصصي المهني"
+  },
+  "about": "مرحبًا! أنا محمد عبدالله السياني، مطور تطبيقات جوال محترف مع خبرة تزيد عن أربع سنوات في بناء تطبيقات عالية الأداء عبر الأنظمة الأساسية باستخدام فلاتر ودارت. أمتلك سجل حافل بتقديم حلول محكمة وذات قابلية للتوسعة تعزز من تجربة المستخدم. أسعى إلى فرص يمكنني من خلالها تطبيق مهاراتي وخبرتي في تطوير التطبيقات لتحقيق تأثيرات رقمية فعالة.",
+  "@about": {
+    "description": "مقدمة شخصية"
+  },
+  "portfolioDescription": "نعم، إنه هذا الملف الشخصي! هذا المشروع يستخدم نهج العمارة النظيفة، مع التركيز على القابلية للتوسعة والصيانة. إنه مستجيب بالكامل ويدعم لغات وموضوعات متعددة.",
+  "@portfolioDescription": {
+    "description": "وصف مشروع الملف الشخصي"
+  },
+  "credit": "التصميم مستوحى من",
+  "@credit": {
+    "description": "شكر للمصمم الأصلي"
+  },
+  "freelanceDevJobTitleAr": "مطور تطبيقات جوال",
+  "@freelanceDevJobTitleAr": {
+    "description": "المسمى الوظيفي للعمل الحر"
+  },
+  "freelanceDevJobDescriptionAr": "<ul> <li>طورت تطبيقات مخصصة باستخدام فلاتر لعملاء متنوعين.</li> <li>أدرت مشاريع متعددة مع التركيز على التسليم في الوقت المناسب والجودة العالية.</li> <li>أجيد إدارة الحالة ودمج واجهات برمجة التطبيقات RESTful.</li> </ul>",
+  "@freelanceDevJobDescriptionAr": {
+    "description": "وصف الوظيفة للعمل الحر"
+  },
+  "kayanDevJobTitleAr": "مطور تطبيقات جوال",
+  "@kayanDevJobTitleAr": {
+    "description": "المسمى الوظيفي في شركة كيان إنتليجنس"
+  },
+  "kayanDevJobDescriptionAr": "<ul> <li>قمت بتطوير تطبيقات فلاتر لمستثمرين وشركات مختلفة.</li> <li>تعاونت مع الفرق لجمع المتطلبات وتقديم حلول محسنة.</li> <li>قدت مشاريع لتحسين تجربة المستخدم وأداء التطبيق.</li> <li>أدرت مشاريع متعددة ووفرت إرشادات تقنية.</li> </ul>",
+  "@kayanDevJobDescriptionAr": {
+    "description": "وصف الوظيفة في شركة كيان إنتليجنس"
+  },
+  "amrtmDevJobTitleAr": "مطور تطبيقات جوال",
+  "@amrtmDevJobTitleAr": {
+    "description": "المسمى الوظيفي في شركة أمارتام"
+  },
+  "amrtmDevJobDescriptionAr": "<ul> <li>طورت برامج الشركة وتطبيقات الجوال باستخدام فلاتر.</li> <li>تعاونت مع الفرق لتقديم حلول مخصصة وتحسين وظائف التطبيقات.</li> <li>ساهمت في دورة تطوير كاملة ووفرت إرشادًا تقنيًا.</li> </ul>",
+  "@amrtmDevJobDescriptionAr": {
+    "description": "وصف الوظيفة في شركة أمارتام"
+  }
+}
