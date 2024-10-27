@@ -3,7 +3,7 @@
 My personal Portfolio
 ==============
 
-Flutter [Portfolio](https://m-alsayani/) – by [@MohammedAlsayani](https://github.com/MohammedAlsayani)
+Flutter [Portfolio](https://github.com/MohammedAlsayani/portfolio/) – by [@MohammedAlsayani](https://github.com/MohammedAlsayani)
 
 [![Flutter 3](https://img.shields.io/badge/Flutter-3.10-02569b.svg?style=flat-square&logo=flutter&logoColor=13b9fd)](https://flutter.dev/)
 [![Dart 3](https://img.shields.io/badge/Dart-3.0-0175c2.svg?style=flat-square&logo=dart&logoColor=13b9fd)](https://dart.dev/)
